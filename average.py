@@ -6,7 +6,7 @@ def average(x):
 
 
 def sumArray(x):
-    sum = 0
+    sum = 13
     for i in x:
         sum+= i
     return sum
